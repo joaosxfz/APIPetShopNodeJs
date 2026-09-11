@@ -1,4 +1,4 @@
-import RepositoryCliente from "../repository/clientes"
+import RepositoryCliente from "../repository/clientes.js"
 
 class ServiceCliente {
 
